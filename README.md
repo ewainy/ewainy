@@ -1,16 +1,21 @@
-### Hi there 👋
+# Emma Wain 
 
-<!--
-**ewainy/ewainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏼‍💻 I'm a self-taught developer from **Manchester, UK** 🇬🇧
+
+❤️ Passionate about **front-end development** and **Jamstack**
+
+💼 Currently working on sprucing up my **GitHub** and building small projects for my portfolio
+
+🌱 Re-learning **React**, wanting to learn **TypeScript**
+
+🐦 Very active on Twitter, follow me! [@ewainy](https://twitter.com/ewainy) 
+
+✨ All about the **positive vibes** ✌️
+
+💆🏼‍♀️ Was a beauty therapist before pursuing tech
+
+🧘🏼‍♀️ Self care and wellness is important to me 
+
