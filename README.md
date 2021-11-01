@@ -19,3 +19,11 @@
 
 🧘🏼‍♀️ Self care and wellness is important to me 
 
+## GitHub Stats
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=ewainy&show_icons=true&theme=synthwave" 
+/>
+
+## Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewainy&theme=synthwave)](https://github.com/ewainy/github-readme-stats)
