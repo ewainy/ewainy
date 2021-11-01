@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewainy&theme=synthwave)](https://github.com/ewainy/github-readme-stats)
 
 ## Latest GitHub Activity
-"<!--START_SECTION:activity-->".
+<!--START_SECTION:activity-->
 
 
 <!--END_SECTION:activity-->
