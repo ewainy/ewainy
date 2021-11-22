@@ -1,9 +1,9 @@
-# Emma Wain 
+# Hey, I'm Emma Wain 👋
 
 
-## About Me
+## 👩‍💻 About Me
 
-👩🏼‍💻 I'm a self-taught developer from **Manchester, UK** 🇬🇧
+👩‍💻 I'm a self-taught developer from **Manchester, UK** 🇬🇧
 
 ❤️ Passionate about **front-end development** and **Jamstack**
 
@@ -19,17 +19,17 @@
 
 🧘🏼‍♀️ Self care and wellness is important to me 
 
-## GitHub Stats
+## 📈 GitHub Stats
+
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=ewainy&show_icons=true&theme=synthwave" 
+   src="https://github-readme-stats.vercel.app/api?username=ewainy&show_icons=true&theme=synthwave&hide_border=true" 
 />
 
-## Languages Used
+## 💻 Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewainy&theme=synthwave)](https://github.com/ewainy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewainy&theme=synthwave&hide_border=true)](https://github.com/ewainy/github-readme-stats)
 
-<!-- Latest GitHub Activity-->
+## ⚡ GitHub Activity
+
 <!--START_SECTION:activity-->
-
-
 <!--END_SECTION:activity-->
