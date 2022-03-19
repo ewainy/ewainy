@@ -19,6 +19,13 @@
 
 🧘🏼‍♀️ Self care and wellness is important to me 
 
+## 🛠 Tech Stack
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23f4c5ff.svg?style=for-the-badge&logo=html5&logoColor=000000"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%23cdc9ff.svg?style=for-the-badge&logo=css3&logoColor=000000"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23c7e2ff.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23c2fffb.svg?style=for-the-badge&logo=java&logoColor=000000"/>
+
 ## 📈 GitHub Stats
 
 <img 
