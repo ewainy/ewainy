@@ -26,11 +26,6 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23c7e2ff.svg?style=for-the-badge&logo=javascript&logoColor=000000"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23c2fffb.svg?style=for-the-badge&logo=java&logoColor=000000"/>
 
-## 📈 GitHub Stats
-
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=ewainy&show_icons=true&theme=synthwave&hide_border=true" 
-/>
 
 ## 💻 Languages Used
 
