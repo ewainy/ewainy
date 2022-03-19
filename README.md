@@ -27,10 +27,6 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23c2fffb.svg?style=for-the-badge&logo=java&logoColor=000000"/>
 
 
-## 💻 Languages Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewainy&theme=synthwave&hide_border=true)](https://github.com/ewainy/github-readme-stats)
-
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
