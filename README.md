@@ -3,7 +3,7 @@
 
 ## 👩‍💻 About Me
 
-👩‍💻 I'm a self-taught developer from **Manchester, UK** 🇬🇧
+🖥 I'm a self-taught developer from **Manchester, UK** 🇬🇧
 
 ❤️ Passionate about **front-end development** and **Jamstack**
 
