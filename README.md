@@ -27,6 +27,10 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23c2fffb.svg?style=for-the-badge&logo=java&logoColor=000000"/>
 
 
+## 📚 Dev Card
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ewainy/ewainy/blob/main/devcard.svg" width="400" alt="my dev card which shows a picture of me and shows articles read and favourite tech categories from the platform daily dev"/></a>
+
+
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
