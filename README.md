@@ -36,8 +36,8 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
- <br>
+1. 💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
+2. 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
 <br>
 ❗️ Closed issue [#3](https://github.com/ewainy/ewainy/issues/3) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
