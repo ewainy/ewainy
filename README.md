@@ -36,8 +36,8 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ewainy/nextblog2/pull/4) in [ewainy/nextblog2](https://github.com/ewainy/nextblog2)
-2. 🎉 Merged PR [#6](https://github.com/ewainy/nextblog2/pull/6) in [ewainy/nextblog2](https://github.com/ewainy/nextblog2)
+1. 💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
+2. 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
 3. 🎉 Merged PR [#5](https://github.com/ewainy/nextblog2/pull/5) in [ewainy/nextblog2](https://github.com/ewainy/nextblog2)
 4. 💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
 5. 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
