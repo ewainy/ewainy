@@ -38,12 +38,9 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
 2. 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
-🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
-🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
-🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
-❗️ Closed issue [#3](https://github.com/ewainy/ewainy/issues/3) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
-🎉 Merged PR [#5](https://github.com/ewainy/ewainy/pull/5) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
-❗️ Closed issue [#2](https://github.com/ewainy/ewainy/issues/2) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
+3. ❗️ Closed issue [#3](https://github.com/ewainy/ewainy/issues/3) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
+4. 🎉 Merged PR [#5](https://github.com/ewainy/ewainy/pull/5) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
+5. ❗️ Closed issue [#2](https://github.com/ewainy/ewainy/issues/2) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
 <!--END_SECTION:activity-->
 
   </div>
