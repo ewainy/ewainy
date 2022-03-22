@@ -36,8 +36,10 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
-2. 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
+💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
+<br>
+🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
+<br>
 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
 <br>
 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
