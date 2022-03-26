@@ -36,11 +36,11 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
-2. 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
-3. 🎉 Merged PR [#5](https://github.com/ewainy/nextblog2/pull/5) in [ewainy/nextblog2](https://github.com/ewainy/nextblog2)
-4. 💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
-5. 🗣 Commented on [#1](https://github.com/conermurphy/conermurphy/issues/1) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
+1. 🎉 Merged PR [#2](https://github.com/ewainy/myblog/pull/2) in [ewainy/myblog](https://github.com/ewainy/myblog)
+2. 💪 Opened PR [#2](https://github.com/ewainy/myblog/pull/2) in [ewainy/myblog](https://github.com/ewainy/myblog)
+3. 🎉 Merged PR [#1](https://github.com/ewainy/myblog/pull/1) in [ewainy/myblog](https://github.com/ewainy/myblog)
+4. 💪 Opened PR [#1](https://github.com/ewainy/myblog/pull/1) in [ewainy/myblog](https://github.com/ewainy/myblog)
+5. 💪 Opened PR [#2](https://github.com/conermurphy/conermurphy/pull/2) in [conermurphy/conermurphy](https://github.com/conermurphy/conermurphy)
 <!--END_SECTION:activity-->
 
   </div>
