@@ -36,11 +36,11 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ewainy/myblog/issues/5) in [ewainy/myblog](https://github.com/ewainy/myblog)
-2. 🎉 Merged PR [#4](https://github.com/ewainy/myblog/pull/4) in [ewainy/myblog](https://github.com/ewainy/myblog)
-3. 🎉 Merged PR [#3](https://github.com/ewainy/myblog/pull/3) in [ewainy/myblog](https://github.com/ewainy/myblog)
-4. 💪 Opened PR [#3](https://github.com/ewainy/myblog/pull/3) in [ewainy/myblog](https://github.com/ewainy/myblog)
-5. 🎉 Merged PR [#2](https://github.com/ewainy/myblog/pull/2) in [ewainy/myblog](https://github.com/ewainy/myblog)
+1. ❗️ Opened issue [#14](https://github.com/FrancescoXX/100-days-of-Web3/issues/14) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+2. 🗣 Commented on [#5](https://github.com/ewainy/myblog/issues/5) in [ewainy/myblog](https://github.com/ewainy/myblog)
+3. 🎉 Merged PR [#4](https://github.com/ewainy/myblog/pull/4) in [ewainy/myblog](https://github.com/ewainy/myblog)
+4. 🎉 Merged PR [#3](https://github.com/ewainy/myblog/pull/3) in [ewainy/myblog](https://github.com/ewainy/myblog)
+5. 💪 Opened PR [#3](https://github.com/ewainy/myblog/pull/3) in [ewainy/myblog](https://github.com/ewainy/myblog)
 <!--END_SECTION:activity-->
 
   </div>
