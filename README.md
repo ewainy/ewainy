@@ -36,11 +36,11 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/ewainy/myblog/issues/8) in [ewainy/myblog](https://github.com/ewainy/myblog)
-2. ❗️ Closed issue [#7](https://github.com/ewainy/myblog/issues/7) in [ewainy/myblog](https://github.com/ewainy/myblog)
-3. ❗️ Closed issue [#6](https://github.com/ewainy/myblog/issues/6) in [ewainy/myblog](https://github.com/ewainy/myblog)
-4. ❗️ Opened issue [#10](https://github.com/ewainy/myblog/issues/10) in [ewainy/myblog](https://github.com/ewainy/myblog)
-5. ❗️ Opened issue [#9](https://github.com/ewainy/myblog/issues/9) in [ewainy/myblog](https://github.com/ewainy/myblog)
+1. ❗️ Opened issue [#11](https://github.com/ewainy/myblog/issues/11) in [ewainy/myblog](https://github.com/ewainy/myblog)
+2. ❗️ Closed issue [#10](https://github.com/ewainy/myblog/issues/10) in [ewainy/myblog](https://github.com/ewainy/myblog)
+3. ❗️ Closed issue [#9](https://github.com/ewainy/myblog/issues/9) in [ewainy/myblog](https://github.com/ewainy/myblog)
+4. ❗️ Closed issue [#8](https://github.com/ewainy/myblog/issues/8) in [ewainy/myblog](https://github.com/ewainy/myblog)
+5. ❗️ Closed issue [#7](https://github.com/ewainy/myblog/issues/7) in [ewainy/myblog](https://github.com/ewainy/myblog)
 <!--END_SECTION:activity-->
 
   </div>
