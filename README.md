@@ -36,11 +36,11 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/ewainy/myblog/issues/8) in [ewainy/myblog](https://github.com/ewainy/myblog)
-2. ❗️ Opened issue [#7](https://github.com/ewainy/myblog/issues/7) in [ewainy/myblog](https://github.com/ewainy/myblog)
-3. ❗️ Opened issue [#6](https://github.com/ewainy/myblog/issues/6) in [ewainy/myblog](https://github.com/ewainy/myblog)
-4. ❗️ Opened issue [#14](https://github.com/FrancescoXX/100-days-of-Web3/issues/14) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-5. 🗣 Commented on [#5](https://github.com/ewainy/myblog/issues/5) in [ewainy/myblog](https://github.com/ewainy/myblog)
+1. ❗️ Opened issue [#10](https://github.com/ewainy/myblog/issues/10) in [ewainy/myblog](https://github.com/ewainy/myblog)
+2. ❗️ Opened issue [#9](https://github.com/ewainy/myblog/issues/9) in [ewainy/myblog](https://github.com/ewainy/myblog)
+3. ❗️ Opened issue [#8](https://github.com/ewainy/myblog/issues/8) in [ewainy/myblog](https://github.com/ewainy/myblog)
+4. ❗️ Opened issue [#7](https://github.com/ewainy/myblog/issues/7) in [ewainy/myblog](https://github.com/ewainy/myblog)
+5. ❗️ Opened issue [#6](https://github.com/ewainy/myblog/issues/6) in [ewainy/myblog](https://github.com/ewainy/myblog)
 <!--END_SECTION:activity-->
 
   </div>
