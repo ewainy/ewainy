@@ -36,11 +36,11 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/EddieHubCommunity/DailyTips/pull/15) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-2. 💪 Opened PR [#9](https://github.com/EddieHubCommunity/DailyTips/pull/9) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-3. 💪 Opened PR [#6](https://github.com/EddieHubCommunity/DailyTips/pull/6) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-4. ❗️ Opened issue [#5](https://github.com/EddieHubCommunity/DailyTips/issues/5) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-5. 🗣 Commented on [#14](https://github.com/ewainy/myblog/issues/14) in [ewainy/myblog](https://github.com/ewainy/myblog)
+1. ❗️ Opened issue [#3816](https://github.com/EddieHubCommunity/support/issues/3816) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#15](https://github.com/EddieHubCommunity/DailyTips/pull/15) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+3. 💪 Opened PR [#9](https://github.com/EddieHubCommunity/DailyTips/pull/9) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+4. 💪 Opened PR [#6](https://github.com/EddieHubCommunity/DailyTips/pull/6) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+5. ❗️ Opened issue [#5](https://github.com/EddieHubCommunity/DailyTips/issues/5) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
 <!--END_SECTION:activity-->
 
   </div>
