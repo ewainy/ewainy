@@ -36,11 +36,11 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ❗️ Opened issue [#3816](https://github.com/EddieHubCommunity/support/issues/3816) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#15](https://github.com/EddieHubCommunity/DailyTips/pull/15) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-4. 💪 Opened PR [#9](https://github.com/EddieHubCommunity/DailyTips/pull/9) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
-5. 💪 Opened PR [#6](https://github.com/EddieHubCommunity/DailyTips/pull/6) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+1. 🗣 Commented on [#29](https://github.com/FrancescoXX/free-Web3-resources/issues/29) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. ❗️ Opened issue [#3816](https://github.com/EddieHubCommunity/support/issues/3816) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 💪 Opened PR [#15](https://github.com/EddieHubCommunity/DailyTips/pull/15) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
+5. 💪 Opened PR [#9](https://github.com/EddieHubCommunity/DailyTips/pull/9) in [EddieHubCommunity/DailyTips](https://github.com/EddieHubCommunity/DailyTips)
 <!--END_SECTION:activity-->
 
   </div>
