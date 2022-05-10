@@ -37,10 +37,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#48](https://github.com/FrancescoXX/free-Web3-resources/issues/48) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🗣 Commented on [#29](https://github.com/FrancescoXX/free-Web3-resources/issues/29) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. ❗️ Opened issue [#3816](https://github.com/EddieHubCommunity/support/issues/3816) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#48](https://github.com/FrancescoXX/free-Web3-resources/issues/48) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🗣 Commented on [#29](https://github.com/FrancescoXX/free-Web3-resources/issues/29) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
   </div>
