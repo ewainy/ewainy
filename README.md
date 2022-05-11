@@ -36,10 +36,10 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/FrancescoXX/free-Web3-resources/issues/48) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🗣 Commented on [#48](https://github.com/FrancescoXX/free-Web3-resources/issues/48) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🗣 Commented on [#29](https://github.com/FrancescoXX/free-Web3-resources/issues/29) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. ❗️ Opened issue [#4](https://github.com/ewainy/UkDevs/issues/4) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
+2. ❗️ Opened issue [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
+3. 🗣 Commented on [#48](https://github.com/FrancescoXX/free-Web3-resources/issues/48) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🗣 Commented on [#48](https://github.com/FrancescoXX/free-Web3-resources/issues/48) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 5. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
