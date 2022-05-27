@@ -36,11 +36,11 @@
 ## ⚡ GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
-2. 🗣 Commented on [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
-3. ❗️ Opened issue [#4](https://github.com/ewainy/UkDevs/issues/4) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
-4. ❗️ Opened issue [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
-5. 🗣 Commented on [#48](https://github.com/FrancescoXX/free-Web3-resources/issues/48) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. 💪 Opened PR [#56](https://github.com/FrancescoXX/free-Web3-resources/pull/56) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. ❗️ Closed issue [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
+3. 🗣 Commented on [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
+4. ❗️ Opened issue [#4](https://github.com/ewainy/UkDevs/issues/4) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
+5. ❗️ Opened issue [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
 <!--END_SECTION:activity-->
 
   </div>
