@@ -35,6 +35,9 @@
 
 ## ⚡ GitHub Activity
 
+<details>
+  <summary>Click to expand!</summary>
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3984](https://github.com/EddieHubCommunity/support/issues/3984) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. 🗣 Commented on [#3984](https://github.com/EddieHubCommunity/support/issues/3984) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
@@ -43,4 +46,8 @@
 5. ❗️ Closed issue [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
 <!--END_SECTION:activity-->
 
-  </div>
+</details>
+
+
+
+</div>
