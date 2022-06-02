@@ -39,11 +39,11 @@
   <summary>Click to expand!</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3984](https://github.com/EddieHubCommunity/support/issues/3984) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#3984](https://github.com/EddieHubCommunity/support/issues/3984) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#55](https://github.com/FrancescoXX/free-Web3-resources/issues/55) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 💪 Opened PR [#56](https://github.com/FrancescoXX/free-Web3-resources/pull/56) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. ❗️ Closed issue [#3](https://github.com/ewainy/UkDevs/issues/3) in [ewainy/UkDevs](https://github.com/ewainy/UkDevs)
+1. 🎉 Merged PR [#17](https://github.com/ewainy/myblog/pull/17) in [ewainy/myblog](https://github.com/ewainy/myblog)
+2. 💪 Opened PR [#17](https://github.com/ewainy/myblog/pull/17) in [ewainy/myblog](https://github.com/ewainy/myblog)
+3. ❗️ Closed issue [#13](https://github.com/ewainy/myblog/issues/13) in [ewainy/myblog](https://github.com/ewainy/myblog)
+4. 🎉 Merged PR [#16](https://github.com/ewainy/myblog/pull/16) in [ewainy/myblog](https://github.com/ewainy/myblog)
+5. 💪 Opened PR [#16](https://github.com/ewainy/myblog/pull/16) in [ewainy/myblog](https://github.com/ewainy/myblog)
 <!--END_SECTION:activity-->
 
 </details>
