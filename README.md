@@ -39,11 +39,11 @@
   <summary>Click to expand!</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/FrancescoXX/free-Web3-resources/issues/64) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🗣 Commented on [#64](https://github.com/FrancescoXX/free-Web3-resources/issues/64) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. ❗️ Closed issue [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. 🗣 Commented on [#32](https://github.com/FrancescoXX/free-Web3-resources/issues/32) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. ❗️ Closed issue [#29](https://github.com/FrancescoXX/free-Web3-resources/issues/29) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. 🗣 Commented on [#78](https://github.com/FrancescoXX/free-Web3-resources/issues/78) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. ❌ Closed PR [#75](https://github.com/FrancescoXX/free-Web3-resources/pull/75) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#75](https://github.com/FrancescoXX/free-Web3-resources/issues/75) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 🗣 Commented on [#64](https://github.com/FrancescoXX/free-Web3-resources/issues/64) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. 🗣 Commented on [#64](https://github.com/FrancescoXX/free-Web3-resources/issues/64) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 </details>
