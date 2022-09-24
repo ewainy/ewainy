@@ -5,19 +5,17 @@
 
 ## 👩🏼‍💻 About Me
 
-🖥  I'm a self-taught developer from **Manchester, UK** 🇬🇧
+🖥 I'm a self-taught developer from **Manchester, UK** 🇬🇧
 
 ❤️ Passionate about **front-end development** and **Jamstack**
 
-💼 Currently working on sprucing up my **GitHub** and building small projects for my portfolio
+🌱 Currently learning Eleventy 
 
-🌱 Re-learning **React**, wanting to learn **TypeScript**
+🐦 I like to make friends with people on Tech Twitter, follow me! [@ewainy](https://twitter.com/ewainy) 
 
-🐦 Very active on Twitter, follow me! [@ewainy](https://twitter.com/ewainy) 
+🐰 EddieHub Ambassador - The friendliest, inclusive open source community!
 
-✨ All about the **positive vibes** ✌️
-
-💆🏼‍♀️ Was a beauty therapist before pursuing tech
+🚀 Maintainer for Francesco's Web3 Repository
 
 🧘🏼‍♀️ Self care and wellness is important to me 
 
