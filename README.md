@@ -37,11 +37,11 @@
   <summary>Click to expand!</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#231](https://github.com/FrancescoXX/free-Web3-resources/pull/231) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. ❗️ Opened issue [#230](https://github.com/FrancescoXX/free-Web3-resources/issues/230) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-3. 🎉 Merged PR [#2048](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2048) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#2045](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2045) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#150](https://github.com/FrancescoXX/free-Web3-resources/issues/150) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. ❗️ Closed issue [#184](https://github.com/FrancescoXX/free-Web3-resources/issues/184) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🗣 Commented on [#184](https://github.com/FrancescoXX/free-Web3-resources/issues/184) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🗣 Commented on [#143](https://github.com/FrancescoXX/free-Web3-resources/issues/143) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+4. 💪 Opened PR [#231](https://github.com/FrancescoXX/free-Web3-resources/pull/231) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+5. ❗️ Opened issue [#230](https://github.com/FrancescoXX/free-Web3-resources/issues/230) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 </details>
