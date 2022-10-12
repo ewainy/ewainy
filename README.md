@@ -37,11 +37,11 @@
   <summary>Click to expand!</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2068](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2068) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#2066](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2066) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#237](https://github.com/FrancescoXX/free-Web3-resources/issues/237) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-4. ❗️ Closed issue [#184](https://github.com/FrancescoXX/free-Web3-resources/issues/184) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🗣 Commented on [#184](https://github.com/FrancescoXX/free-Web3-resources/issues/184) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+1. ❗️ Closed issue [#237](https://github.com/FrancescoXX/free-Web3-resources/issues/237) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+2. 🎉 Merged PR [#252](https://github.com/FrancescoXX/free-Web3-resources/pull/252) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🎉 Merged PR [#2068](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2068) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#2066](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2066) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#237](https://github.com/FrancescoXX/free-Web3-resources/issues/237) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
 <!--END_SECTION:activity-->
 
 </details>
