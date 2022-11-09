@@ -28,7 +28,7 @@
 
 
 ## 📚 Dev Card
-<a href="https://app.daily.dev/ewainy"><img src="https://github.com/ewainy/ewainy/blob/main/devcard.svg" width="250" alt="my dev card which shows a picture of me and shows articles read and favourite tech categories from the platform daily dev"/></a>
+<a href="https://app.daily.dev/Ewainy"><img src="https://github.com/ewainy/ewainy/blob/main/devcard.svg" width="250" alt="my dev card which shows a picture of me and shows articles read and favourite tech categories from the platform daily dev"/></a>
 
 
 ## ⚡ GitHub Activity
