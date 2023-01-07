@@ -37,11 +37,11 @@
   <summary>Click to expand!</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#339](https://github.com/FrancescoXX/free-Web3-resources/pull/339) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-2. 🎉 Merged PR [#2186](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2186) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#2184](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2184) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. ❗️ Closed issue [#7](https://github.com/ewainy/ewainy/issues/7) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
-5. 🗣 Commented on [#7](https://github.com/ewainy/ewainy/issues/7) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
+1. 🎉 Merged PR [#2341](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2341) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 💪 Opened PR [#339](https://github.com/FrancescoXX/free-Web3-resources/pull/339) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
+3. 🎉 Merged PR [#2186](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2186) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#2184](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2184) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. ❗️ Closed issue [#7](https://github.com/ewainy/ewainy/issues/7) in [ewainy/ewainy](https://github.com/ewainy/ewainy)
 <!--END_SECTION:activity-->
 
 </details>
