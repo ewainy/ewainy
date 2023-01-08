@@ -37,11 +37,11 @@
   <summary>Click to expand!</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2343](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2343) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#2342](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2342) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#2341](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2341) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 💪 Opened PR [#339](https://github.com/FrancescoXX/free-Web3-resources/pull/339) in [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources)
-5. 🎉 Merged PR [#2186](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2186) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#2347](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2347) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#2345](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2345) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#2349](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2349) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#2348](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2348) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#2343](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2343) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 </details>
