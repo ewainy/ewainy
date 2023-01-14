@@ -37,11 +37,11 @@
   <summary>Click to expand!</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2355](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2355) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#2356](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2356) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#2356](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2356) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#2355](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2355) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#2350](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2350) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#2372](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2372) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#2369](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2369) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#2355](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2355) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#2356](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2356) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#2356](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2356) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 </details>
